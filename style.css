@@ -58,3 +58,7 @@ ul li a:hover{
     font-size: 65px;
     color: rgb(36, 32, 30);
 }
+
+.info h3{
+    font-size: 18px;
+}
