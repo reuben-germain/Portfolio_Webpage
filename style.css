@@ -87,4 +87,5 @@ ul li a:hover{
 .image{
     width: 30%;
     height: 60%;
+    position: absolute;
 }
