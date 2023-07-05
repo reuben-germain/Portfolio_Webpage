@@ -21,3 +21,7 @@
     align-items: center;
     justify-content: space-between;
 }
+
+.navbar .logo{
+    width: 160px;
+}
