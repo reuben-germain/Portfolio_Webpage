@@ -83,3 +83,7 @@ ul li a:hover{
 .info a:hover{
     background: rgb(59, 174, 209);
 }
+
+.image{
+    width: 30%;
+}
