@@ -98,4 +98,9 @@ ul li a:hover{
     left: 40%;
     transform: translate(-50%);
     bottom: 0;
+    transition: left 2s ease;
+}
+
+.image:hover .reuben{
+    left: 55%;
 }
