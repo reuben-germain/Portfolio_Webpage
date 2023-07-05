@@ -24,4 +24,5 @@
 
 .navbar .logo{
     width: 160px;
+    cursor: pointer;
 }
