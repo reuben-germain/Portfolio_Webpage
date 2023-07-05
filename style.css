@@ -48,3 +48,7 @@ ul li a{
 ul li a:hover{
     color: rgb(230, 130, 59);
 }
+
+.info{
+    margin-left: 7%;
+}
