@@ -15,4 +15,5 @@
 
 .navbar{
     width: 86%;
+    display: flex;
 }
