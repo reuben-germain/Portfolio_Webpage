@@ -68,3 +68,7 @@ ul li a:hover{
 .info span{
     color: rgb(230, 104, 59);
 }
+
+.info a{
+    text-decoration: none;
+}
