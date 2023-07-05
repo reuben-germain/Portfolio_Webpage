@@ -72,4 +72,5 @@ ul li a:hover{
 .info a{
     text-decoration: none;
     color: #fff;
+    background: rgb(36, 32, 30);
 }
