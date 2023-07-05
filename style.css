@@ -8,4 +8,5 @@
     background: url(imgs/bg-img.jpg);
     background-position: center;
     background-size: cover;
+    height: 100vh;
 }
