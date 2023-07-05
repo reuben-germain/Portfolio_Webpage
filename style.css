@@ -53,3 +53,8 @@ ul li a:hover{
     margin-left: 7%;
     margin-top: 6%;
 }
+
+.info h1{
+    font-size: 65px;
+    color: rgb(36, 32, 30);
+}
