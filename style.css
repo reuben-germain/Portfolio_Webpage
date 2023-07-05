@@ -96,4 +96,5 @@ ul li a:hover{
     position: absolute;
     height: 140px;
     left: 40%;
+    transform: translate(-50%);
 }
