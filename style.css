@@ -104,3 +104,15 @@ ul li a:hover{
 .image:hover .reuben{
     left: 55%;
 }
+
+.icons a{
+    text-decoration: none;
+    color: #000;
+}
+
+.icons ion-icon{
+    margin-left: 7%;
+    color: #000;
+    margin-right: -60px;
+    font-size: 40px;
+}
