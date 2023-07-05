@@ -64,3 +64,7 @@ ul li a:hover{
     letter-spacing: 1px;
     line-height: 24px;
 }
+
+.info span{
+    color: rgb(230, 104, 59);
+}
