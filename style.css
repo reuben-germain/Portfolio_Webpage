@@ -38,3 +38,7 @@ ul li{
     display: inline-block;
     padding: 10px 16px;
 }
+
+ul li a{
+    font-size: 16px;
+}
