@@ -1,5 +1,5 @@
-# My Portfolio Webpage
---
+# Portfolio Webpage
+
 ## for Sopra Steria
 
 1. Hover over the navbar list individually at the top right of the page to see the hover effect colour transition.
